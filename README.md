@@ -8,5 +8,6 @@ exam score in math, reading and writing
 gender, race/ethnicity of the student
 the highest education level of either parent
 whether the student took the test preparation course.
+Complete this analysis in Jupyter Notebook with R programming language.
 
 https://app.datacamp.com/workspace/w/ecbef911-5048-4044-b5dd-2dd1709dd816
